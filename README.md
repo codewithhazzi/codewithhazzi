@@ -1,13 +1,13 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Hanzla Masood</h1>
 <h3 align="center">🎓 Student of Computer Science | 🌱 Learning, 🏗️ Building, 🚀 Growing (mostly Googling)</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=codewithhazzi">
-    <img src="https://komarev.com/ghpvc/?username=codewithhazzi&label=Profile%20views&color=00FFFF&style=flat-square" alt="codewithhazzi's profile views" />
-  </a>
-  <img src="https://img.shields.io/badge/Coffee%20to%20Code%20Ratio-∞-brown?style=flat-square" alt="Coffee Ratio" />
-  <img src="https://img.shields.io/badge/StackOverflow%20Dependency-Critical-orange?style=flat-square" alt="SO Dependency" />
-</p>
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithhazzi&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Coffee%20to%20Code%20Ratio-∞-brown?style=flat-square" />
+  <img src="https://img.shields.io/badge/StackOverflow%20Dependency-Critical-orange?style=flat-square" />
+  </p>
+
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
