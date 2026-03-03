@@ -65,12 +65,12 @@ const hanzla = {
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithhazzi&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&cache_seconds=86400" alt="codewithhazzi's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=codewithhazzi&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="codewithhazzi's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithhazzi&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="codewithhazzi's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=codewithhazzi&theme=highcontrast&hide_border=true" alt="codewithhazzi's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithhazzi&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Hanzla Masood's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithhazzi&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Hanzla Masood's GitHub Trophies" />
 </p>
 
 <p align="center">
