@@ -9,6 +9,10 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
+## 📌 About Me (The Serious Version)
+
+As a web developer, I believe the best technology is the one that feels natural to the user. More than just writing code, I create digital solutions that solve real business problems. My primary focus is removing technical complexity to emphasize the essence of functionality and aesthetics.
+
 ## 📌 About Me (The Honest Version)
 
 Not a developer... just a guy building 📱 apps and 🌐 websites whose *professional* coding process is:
@@ -62,21 +66,6 @@ const hanzla = {
 - ✅ Told someone "it works on my machine" (unironically)
 - ✅ Googled how to exit Vim (still traumatized)
 
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithhazzi&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="codewithhazzi's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=codewithhazzi&theme=highcontrast&hide_border=true" alt="codewithhazzi's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithhazzi&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Hanzla Masood's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithhazzi&theme=highcontrast&radius=10" alt="codewithhazzi's Activity Graph" />
-</p>
-
 ## 🛠️ Languages & Tools (That I Pretend to Master)
 
 ### Programming Languages (ChatGPT knows them, so I know them)
@@ -103,27 +92,6 @@ const hanzla = {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" style="margin: 4px;" />
 </p>
-
-## 📈 Skill Level Chart
-
-☕ Coffee Maker ████████████████████████ 100%<br>
-🤖 ChatGPT      ███████████████████████░  95%<br>
-📋 Ctrl+C/V     ██████████████████████░░  90%<br>
-🔍 Google       █████████████████████░░░  88%<br>
-🧠 My Brain     ████░░░░░░░░░░░░░░░░░░░░ 15%
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithhazzi&layout=compact&theme=highcontrast&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p><br>
-## 📈 Productivity Chart
-
-Monday    ████░░░░░░░░░░░░░░░░ 20% (Still recovering from weekend)<br>
-Tuesday   ██████░░░░░░░░░░░░░░ 30% (Pretending to work)<br>
-Wednesday ████████████░░░░░░░░ 60% (Actually coding!)<br>
-Thursday  ██████████████░░░░░░ 70% (On a roll!)<br>
-Friday    ████░░░░░░░░░░░░░░░░ 20% (Already mentally weekend)<br>
-Saturday  ████████████████████ 100% (Fixing Friday's bugs)<br>
-Sunday    ░░░░░░░░░░░░░░░░░░░░ 0%  (Dreading Monday)
 
 ## 🔗 Connect with Me (If You Dare)
 
@@ -170,18 +138,6 @@ git commit -m "final fix (hopefully)"
 git commit -m "final final fix"
 git commit -m "okay this is actually the final fix"
 ```
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithhazzi/codewithhazzi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithhazzi/codewithhazzi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithhazzi/codewithhazzi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div align="center">
 
 ### 🎯 Final Words
 
